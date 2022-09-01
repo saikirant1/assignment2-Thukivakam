@@ -12,3 +12,7 @@ step1 - Take a cab from airport.<br>
 step2 - Get down near the Vaikuntam complex bus stand.<br>
 step3 - walk for 2 minutes and you will find the museum.<br>
 
+Places near the musuem-
+- Tirupati
+- Chandeagiri
+- Sri Kalahasti
