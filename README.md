@@ -18,3 +18,10 @@ Places near the musuem-
 - Sri Kalahasti
 
 [Link to my About Me](https://github.com/saikirant1/assignment2-Thukivakam/blob/main/README.md)
+---
+### Tables
+| City | Locations | Time |
+| --- | --- | ---: |
+| North Carolina | Pineville <br> Trails | 4 hours <br> 3 hours to whole day |
+| Missouri | Kansas City | 2 hours |
+| Texas | Marvel Studios <br> Hollywood Shoots | 4 hours <br> 3 Hours |
