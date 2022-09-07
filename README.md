@@ -16,3 +16,5 @@ Places near the musuem-
 - Tirupati
 - Chandeagiri
 - Sri Kalahasti
+
+[Link to my About Me](https://github.com/saikirant1/assignment2-Thukivakam/blob/main/README.md)
