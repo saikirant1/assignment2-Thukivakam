@@ -25,3 +25,8 @@ Places near the musuem-
 | North Carolina | Pineville <br> Trails | 4 hours <br> 3 hours to whole day |
 | Missouri | Kansas City | 2 hours |
 | Texas | Marvel Studios <br> Hollywood Shoots | 4 hours <br> 3 Hours |
+
+---
+### Pithy quotes
+>Live the moment - *Dhruv Tej* <br>
+>Enjot each and every minute of your life - *Lokesh*
